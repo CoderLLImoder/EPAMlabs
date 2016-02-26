@@ -1,0 +1,5 @@
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task06\Капёрский_Илья_Task06\bin\Debug\Капёрский_Илья_Task06.exe.config
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task06\Капёрский_Илья_Task06\bin\Debug\Капёрский_Илья_Task06.exe
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task06\Капёрский_Илья_Task06\bin\Debug\Капёрский_Илья_Task06.pdb
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task06\Капёрский_Илья_Task06\obj\Debug\Капёрский_Илья_Task06.exe
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task06\Капёрский_Илья_Task06\obj\Debug\Капёрский_Илья_Task06.pdb

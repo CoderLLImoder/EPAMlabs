@@ -1,0 +1,5 @@
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task05\Task2\bin\Debug\Task2.exe.config
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task05\Task2\bin\Debug\Task2.exe
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task05\Task2\bin\Debug\Task2.pdb
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task05\Task2\obj\Debug\Task2.exe
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task05\Task2\obj\Debug\Task2.pdb

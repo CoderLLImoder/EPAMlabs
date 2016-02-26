@@ -1,0 +1,6 @@
+C:\Users\Мои документы\Visual Studio 2015\Projects\Капёрский_Илья_Task01\Task6\bin\Debug\Task6.exe.config
+C:\Users\Мои документы\Visual Studio 2015\Projects\Капёрский_Илья_Task01\Task6\bin\Debug\Task6.exe
+C:\Users\Мои документы\Visual Studio 2015\Projects\Капёрский_Илья_Task01\Task6\bin\Debug\Task6.pdb
+C:\Users\Мои документы\Visual Studio 2015\Projects\Капёрский_Илья_Task01\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
+C:\Users\Мои документы\Visual Studio 2015\Projects\Капёрский_Илья_Task01\Task6\obj\Debug\Task6.exe
+C:\Users\Мои документы\Visual Studio 2015\Projects\Капёрский_Илья_Task01\Task6\obj\Debug\Task6.pdb

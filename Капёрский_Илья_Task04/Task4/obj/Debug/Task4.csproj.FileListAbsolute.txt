@@ -1,0 +1,6 @@
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task04\Task4\bin\Debug\Task4.exe.config
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task04\Task4\bin\Debug\Task4.exe
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task04\Task4\bin\Debug\Task4.pdb
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task04\Task4\obj\Debug\Task4.exe
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task04\Task4\obj\Debug\Task4.pdb
+c:\users\мои документы\visual studio 2015\Projects\Капёрский_Илья_Task04\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
