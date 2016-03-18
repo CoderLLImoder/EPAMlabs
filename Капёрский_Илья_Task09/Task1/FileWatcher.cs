@@ -22,7 +22,7 @@ namespace Task1
 
         
 
-        //метод Clone(DirectoryInfo savingfolder, DirectoryInfo tempfolder) клонирует savingfolder в tempfolder
+        //метод Clone клонирует savingfolder в tempfolder
         public static void Clone(DirectoryInfo savingfolder, DirectoryInfo tempfolder)
         {
             foreach (FileInfo file in savingfolder.EnumerateFiles())
